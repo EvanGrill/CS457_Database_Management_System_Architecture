@@ -3,4 +3,6 @@
 
 This repository contains the final version of the progressive programming
 assignemnt for CS 457 for Spring 2018.  If this repository is public it is
-no longer being maintained.  Consider this an element of a "portfolio." 
+no longer being maintained.  Consider this an element of a "portfolio."
+
+*Note: This project requires Python 3.6.*
